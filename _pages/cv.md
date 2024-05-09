@@ -11,35 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Economy, UNLP (pending thesis)
+* B.S. in Economy,UNLP, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec 2021 - Today: Research Assistance
+  * World Bank
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2020 - Apr 2022: Research Assistant
+  * Ministry of Education, Buenos Aires City
+  * Duties included: Impact evaluation design, Data processing
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2021: Research Assistant
+  * Ministry of Health, Argentina
+  * Duties included: Processing of household expenditure surveys and incidence study
+
+* 2020: Research Assistant
+  * FIEL
+  * Duties included: Technical assistance for estimating costs of the health coverage program "SUMAR"
+
+* 2018 - 2020: Research Assistant
+  * Ministry of Education, Buenos Aires
+  * Duties included: Impact evaluation design, Data processing
+
+* 2019 - 2020: Research Assistant
+  * Universidad Nacional de La Plata
+  * Duties included: Systematization and processing of SUBE databases (transport)
+ 
+* 2017 - 2019: Research Assistant
+  * Inter-American Development Bank
+  * Duties included:
+    *  Systematization and processing of 911 databases (emergency telephone alert system)
+    *  Responsible for the Project Completion Report of "Programa de Seguridad Ciudadana e Inclusión"
+    *  Responsible for the Project Completion Report of "PROFIP II"
+
+ * 2014 - 2017: Research Assistant
+  * Ministry of Economy, Buenos Aires
+  * Duties included: Impact evaluation design, Research on Public Social Spending in Youth and Policies in Management of Health
+
+ * 2013: Reserarch fellow
+  * CEDLAS
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Spanish (Native)
+  * Englush (Intermediate)
+* Computing
+  * Stata (Advanced) (Youtube channel: Stateando)
+  * Microsoft Excel (Advanced)
+  * Python (Intermediate)
+  * Qgis (Intermediate)
+  * TeX - LATEX (Intermediate)
+
 
 Publications
 ======

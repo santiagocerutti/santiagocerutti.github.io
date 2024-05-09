@@ -21,7 +21,7 @@ repository               : "santiagocerutti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "perfil.png"
+  avatar           : "perfil.jpeg"
   name             : "Santiago"
   pronouns         : # example: "she/her"  
   bio              : "Actualmente soy Asistente de Investigación en la Oficina del Economista Jefe para América Latina y el Caribe, Banco Mundial"

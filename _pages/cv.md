@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Dec 2021 - Today: Research Assistance
-**World Bank**
+ **World Bank**
 
 * Jan 2020 - Apr 2022: Research Assistant
 **Ministry of Education, Buenos Aires City**

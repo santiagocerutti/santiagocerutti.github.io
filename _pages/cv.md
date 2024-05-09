@@ -16,43 +16,36 @@ Education
 
 Work experience
 ======
-* Dec 2021 - Today: Research Assistance
- **World Bank**
+* Dec 2021 - Today: **World Bank** - Research Assistance 
 
-* Jan 2020 - Apr 2022: Research Assistant
-**Ministry of Education, Buenos Aires City**
+
+
+* Jan 2020 - Apr 2022: **Ministry of Education, Buenos Aires City** - Research Assistant
   * Duties included: Impact evaluation design, Data processing
 
 * 2021: Research Assistant
 **Ministry of Health, Argentina**
   * Duties included: Processing of household expenditure surveys and incidence study
 
-* 2020: Research Assistant
-**FIEL**
+* 2020: **FIEL** -Research Assistant
   * Duties included: Technical assistance for estimating costs of the health coverage program "SUMAR"
 
-* 2018 - 2020: Research Assistant
-**Ministry of Education, Buenos Aires**
+* 2018 - 2020: **Ministry of Education, Buenos Aires** - Research Assistant
   * Duties included: Impact evaluation design, Data processing
 
-* 2019 - 2020: Research Assistant
-**Universidad Nacional de La Plata**
+* 2019 - 2020: **Universidad Nacional de La Plata** - Research Assistant
   * Duties included: Systematization and processing of SUBE databases (transport)
  
-* 2017 - 2019: Research Assistant
-**Inter-American Development Bank**
+* 2017 - 2019: **Inter-American Development Bank** - Research Assistant
   * Duties included:
     *  Systematization and processing of 911 databases (emergency telephone alert system)
     *  Responsible for the Project Completion Report of "Programa de Seguridad Ciudadana e Inclusión"
     *  Responsible for the Project Completion Report of "PROFIP II"
 
- * 2014 - 2017: Research Assistant
-**Ministry of Economy, Buenos Aires**
+ * 2014 - 2017: **Ministry of Economy, Buenos Aires** - Research Assistant
   * Duties included: Impact evaluation design, Research on Public Social Spending in Youth and Policies in Management of Health
 
- * 2013: Reserarch fellow
-**CEDLAS**
-
+ * 2013: **CEDLAS** - Reserarch fellow
 
 Skills
 ======

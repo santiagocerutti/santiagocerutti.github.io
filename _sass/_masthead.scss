@@ -39,6 +39,7 @@
 .masthead__menu {
 
   ul {
+    background: black;
     margin: 0;
     padding: 0;
     clear: both;
@@ -54,5 +55,6 @@
   &--lg {
     padding-right: 3em;
     font-weight: 700;
+    font-color: White;
   }
 }

@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-   background: black;
+   background: black; /* era white */
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
@@ -21,7 +21,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-     background: black;
+     background: black; /* Agregado */
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -40,22 +40,25 @@
 .masthead__menu {
 
   ul {
-     background: black;
+     background: black; /* Agregado */
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
   }
-}
 
+  li {
+    background: black; /* Agregado */
+  }
+}
 .masthead__menu-item {
-   background: black;
+   background: black; /* Agregado */
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-     background: black;
+     background: black; /* Agregado */
     padding-right: 3em;
     font-weight: 700;
     font-color: White;

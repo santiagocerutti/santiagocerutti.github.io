@@ -18,32 +18,30 @@ Work experience
 ======
 * Dec 2021 - Today: **World Bank** - Research Assistance 
 
-
-
 * Jan 2020 - Apr 2022: **Ministry of Education, Buenos Aires City** - Research Assistant
-  * Duties included: Impact evaluation design, Data processing
+  * Impact Evaluation design & Data Analyzis
 
 * 2021: Research Assistant
 **Ministry of Health, Argentina**
-  * Duties included: Processing of household expenditure surveys and incidence study
+  * Processing Household Expenditure Surveys of LATAM
 
 * 2020: **FIEL** -Research Assistant
-  * Duties included: Technical assistance for estimating costs of the health coverage program "SUMAR"
+  * Technical Assistance for Estimating Costs of the Health Coverage Program "SUMAR"
 
 * 2018 - 2020: **Ministry of Education, Buenos Aires** - Research Assistant
-  * Duties included: Impact evaluation design, Data processing
+  * Impact Evaluation Design & Data Analyzis
 
 * 2019 - 2020: **Universidad Nacional de La Plata** - Research Assistant
-  * Duties included: Systematization and processing of SUBE databases (transport)
+  * Systematization and Processing "SUBE" Databases (transport)
  
 * 2017 - 2019: **Inter-American Development Bank** - Research Assistant
-  * Duties included:
-    *  Systematization and processing of 911 databases (emergency telephone alert system)
-    *  Responsible for the Project Completion Report of "Programa de Seguridad Ciudadana e Inclusión"
+    *  Systematization and processing of 911 databases (emergency telephone alert system),
+    *  Responsible for the Project Completion Report of "Programa de Seguridad Ciudadana e Inclusión",
     *  Responsible for the Project Completion Report of "PROFIP II"
 
- * 2014 - 2017: **Ministry of Economy, Buenos Aires** - Research Assistant
-  * Duties included: Impact evaluation design, Research on Public Social Spending in Youth and Policies in Management of Health
+* 2014 - 2017: **Ministry of Economy, Buenos Aires** - Research Assistant
+  * Impact Evaluation Design,
+  * Research on Public Social Spending in Youth and Policies in Management of Health
 
  * 2013: **CEDLAS** - Reserarch fellow
 
@@ -58,7 +56,6 @@ Skills
   * Python (Intermediate)
   * Qgis (Intermediate)
   * TeX - LATEX (Intermediate)
-
 
 PDF
 ======

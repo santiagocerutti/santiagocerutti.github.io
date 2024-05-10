@@ -78,7 +78,7 @@
 
 .author__avatar {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
   width: 36px;
   // set width only, for non-square avatars
 
@@ -93,16 +93,15 @@
     border-radius: 5%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 1px;
+      border: 0.5px solid $border-color;
     }
   }
 }
 
 .author__content {
   display: table-cell;
-  vertical-align: top;
-       horizontal-align: center;
+  vertical-align: middle;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;

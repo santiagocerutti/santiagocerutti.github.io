@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-   background: black; /* era white */
+  background: white;
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
@@ -40,7 +40,6 @@
 .masthead__menu {
 
   ul {
-     background: black; /* Agregado */
     margin: 0;
     padding: 0;
     clear: both;
@@ -48,17 +47,14 @@
   }
 
   li {
-    background: black; /* Agregado */
   }
 }
 .masthead__menu-item {
-   background: black; /* Agregado */
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-     background: black; /* Agregado */
     padding-right: 3em;
     font-weight: 700;
     font-color: White;

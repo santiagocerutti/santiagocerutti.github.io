@@ -13,7 +13,7 @@ Mi trayectoria profesional se ha centrado en el análisis y procesamiento de bas
 He tenido la oportunidad de trabajar en diversos organismos, entre los que se encuentran: 
 - El **Banco Mundial**,
 - El **Banco Interamericano de Desarrollo (BID)**,
-- El **Ministerio de Economía**de la Provincia de Buenos Aires,
+- El **Ministerio de Economía** de la Provincia de Buenos Aires,
 - El **Ministerio de Educación** de la Provincia de Buenos Aires,
 - La **Unidad de Evaluación Integral de la Calidad y Equidad Educativa** de CABA,
 - La **Facultad de Ciencias Económicas** de la UNLP,

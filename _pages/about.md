@@ -11,11 +11,12 @@ Soy Economista egresado de la Universidad Nacional de La Plata, Argentina.
 
 Mi trayectoria profesional se ha centrado en el análisis y procesamiento de bases de datos con un enfoque particular en la evaluación de políticas públicas.
 He tenido la oportunidad de trabajar en diversos organismos, entre los que se encuentran: 
-- El **Ministerio de Economía** y el **Ministerio de Educación** de la **Provincia de Buenos Aires**,
-- La **Unidad de Evaluación Integral de la Calidad y Equidad Educativa**,
-- La **Facultad de Ciencias Económicas** de la **UNLP**,
-- El **Banco Interamericano de Desarrollo (BID)** y
-- El **Banco Mundial**.
+- El **Banco Mundial**,
+- El **Banco Interamericano de Desarrollo (BID)**,
+- El **Ministerio de Economía**de la Provincia de Buenos Aires,
+- El **Ministerio de Educación** de la Provincia de Buenos Aires,
+- La **Unidad de Evaluación Integral de la Calidad y Equidad Educativa** de CABA,
+- La **Facultad de Ciencias Económicas** de la UNLP,
 
 A lo largo de estas experiencias, desarrollé habilidades sólidas en análisis de datos, presentación de informes y evaluaciones de impacto, contribuyendo así al desarrollo y mejora de políticas públicas.
 
